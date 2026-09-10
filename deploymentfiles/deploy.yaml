@@ -24,6 +24,6 @@ spec:
     spec:
       containers: 
       - name: facebook-container
-        image: shravansaladi/argocd:26
+        image: shravansaladi/argocd:28
         ports:
         - containerPort: 8080
